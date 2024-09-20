@@ -1,1 +1,7 @@
 streamlit
+scipy
+requests_cache
+retry_requests
+openmeteo_requests
+scikit-learn
+lightgbm
